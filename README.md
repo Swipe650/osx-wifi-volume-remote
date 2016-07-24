@@ -5,6 +5,9 @@ A web-based html5 / node.js app to control OS X system volume from iPhone, Andro
 
 <img src="http://i.imgur.com/aFDrdjrl.png" title="beautifully ugly" alt="screenshot" border="1px" style="border: 1px solid black; width: 325px;" />
 
+OSX Vol Ctrl popup will open the above screen in a resizable popup browser window: 
+Save OSX Vol Ctrl popup html file to disk, edit the 'MacHostname' and add a shortcut to your favourites.
+
 Installation & Usage
 ===
 
